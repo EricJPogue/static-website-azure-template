@@ -1,1 +1,1 @@
-# static-website-azure-template
+# Hello World Azure Static Website Template
